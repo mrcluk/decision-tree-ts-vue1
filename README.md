@@ -23,11 +23,11 @@ This example uses the [decision tree learning algorithm](https://en.wikipedia.or
 
 | Component                                                                       | Description                              |
 | ------------------------------------------------------------------------------- | ---------------------------------------- |
-| [**DecisionTreeClassifier.ts**](https://github.com/)          | implements the decision tree learning           |
-| [**Entropy.ts**](https://github.com/)     | calculates entropy           |
-| [**Events.ts**](https://github.com/)     | defines the iris model but can be easly generalied           |
-| [**Feature.ts**](https://github.com/)     | defines categorical and continous feature class, in this example all features are continous           |
-| [**TreeNode.ts**](https://github.com/)     | binary tree, to be generated dynamically by the algorithm           |
+| [**DecisionTreeClassifier.ts**](https://github.com/mrcluk/decision-tree-ts-vue1/blob/main/src/DecisionTreeClassifier.ts)          | implements the decision tree learning           |
+| [**Entropy.ts**](https://github.com/mrcluk/decision-tree-ts-vue1/blob/main/src/Entropy.ts)     | calculates entropy           |
+| [**Events.ts**](https://github.com/mrcluk/decision-tree-ts-vue1/blob/main/src/Events.ts)     | defines the iris model but can be easly generalied           |
+| [**Feature.ts**](https://github.com/mrcluk/decision-tree-ts-vue1/blob/main/src/Feature.ts)     | defines categorical and continous feature class, in this example all features are continous           |
+| [**TreeNode.ts**](https://github.com/mrcluk/decision-tree-ts-vue1/blob/main/src/TreeNode.ts)     | binary tree, to be generated dynamically by the algorithm           |
 
 ## Tech-Stack
 
